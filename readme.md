@@ -1,4 +1,4 @@
-# Nutrition cal RESTapi 🚀
+# Nutrition cal RESTapi 🚀🏋️
 
 ## How to run
 
